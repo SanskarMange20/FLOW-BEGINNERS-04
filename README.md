@@ -2,7 +2,7 @@
 
 ## Access modifiers 
 
-Here we have studied the readabiltiy and visibility/accessibility of variables in different areas of function scope.
+Here we learned the readabiltiy and visibility/accessibility of variables in different areas of function scope.
 
 ## Getting Started
 

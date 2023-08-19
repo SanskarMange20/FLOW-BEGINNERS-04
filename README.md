@@ -1,8 +1,8 @@
-# FLOW-PROOF-Beginner-Course
+# FLOW-PROOF-Beginner-Course (Module 04)
 
-## Storing Features using Struct
+## Access modifiers 
 
-Here we have created a Structs(Features) to store all the features of a laptop.
+Here we have studied the readabiltiy and visibility/accessibility of variables in different areas of function scope.
 
 ## Getting Started
 
